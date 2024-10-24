@@ -1,1 +1,1 @@
-New app
+Cross-platform application on GoLang
